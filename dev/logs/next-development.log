@@ -1,0 +1,12 @@
+[00:00:01.997] Server  LOG      ✓ Ready in 1433ms
+[00:00:05.068] Server  LOG      ○ Compiling / ...
+[00:00:06.039] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:09.693] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:11.804] Server  LOG      ✓ Compiled in 22ms
+[00:01:12.711] Browser ERROR   uncaughtError: ReferenceError: typed is not defined
+[00:01:21.166] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:01:21.447] Server  LOG      ✓ Compiled in 12ms
+[00:01:21.878] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:01.454] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:02.563] Server  LOG      ✓ Compiled in 9ms
+[00:05:48.182] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
